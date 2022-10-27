@@ -1,0 +1,1 @@
+This is a spotify clone webpage built using HTML, CSS and JavaScript.
